@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohlenzi
+- 👋 Hi, I’m @fujta
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on some web based projects
